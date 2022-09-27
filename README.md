@@ -2,6 +2,8 @@
 # PersonalPage
 This is Yukun Zhou's personal page
 
+This page used the template from https://startbootstrap.com/theme/freelancer and replaced some information with my own.
+
 Author: Yukun Zhou
 Class: NEU CS 5610 Web Dev https://johnguerra.co/classes/webDevelopment_fall_2022/
 
